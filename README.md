@@ -6,7 +6,7 @@ This the arduion-like code base for the water controller.
 See here for detailed write-up.
 http://theryghs.com/userfiles/aquarium/water_change.pdf
 
-* This code uses other libraries!!
+This code uses other libraries!!
 
 Library needed: Modulo
 This library is for the base system, display, and small I/O board
