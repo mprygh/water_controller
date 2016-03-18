@@ -1,8 +1,7 @@
 # water_controller
 Particle Photon / Module based aquarium water controller
 
-This the arduion-like code base for the water controller.
-
+This the code base for the water controller.
 See here for detailed write-up.
 http://theryghs.com/userfiles/aquarium/water_change.pdf
 
